@@ -35,7 +35,7 @@ year 2024.
 
 ## 📊 Insights and Recommendations
 ### Deatiled Report 
-<a href = ""></a>
+<a href ="https://github.com/PrakashRanjanShrivastava/Top_UK_Youtubers/blob/main/Detailed%20Report/Report">Detailed Report</a>
 
 **🔍 Key Insights**
 **Top Performers by Views**
